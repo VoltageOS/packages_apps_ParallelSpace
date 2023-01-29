@@ -1,4 +1,4 @@
-package com.libremobileos.parallelspace;
+package com.voltage.parallelspace;
 
 import android.content.Intent;
 import android.content.pm.UserInfo;
@@ -12,7 +12,7 @@ import androidx.preference.Preference;
 import androidx.preference.PreferenceCategory;
 import androidx.preference.PreferenceFragmentCompat;
 
-import com.android.internal.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.voltage.app.ParallelSpaceManager;
 
 import java.util.List;
 

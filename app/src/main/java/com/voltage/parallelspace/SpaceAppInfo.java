@@ -1,10 +1,10 @@
-package com.libremobileos.parallelspace;
+package com.voltage.parallelspace;
 
 import android.content.pm.PackageManager;
 import android.content.pm.ResolveInfo;
 import android.graphics.drawable.Drawable;
 
-import com.android.internal.libremobileos.app.ParallelSpaceManager;
+import com.android.internal.voltage.app.ParallelSpaceManager;
 
 public class SpaceAppInfo {
 
